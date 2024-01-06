@@ -1,0 +1,20 @@
+doctor:{
+    "firstname":"fares"
+    "lastname":"slimani"
+    "email":"fares16slimani@gmail.com"
+    "password":"12345678"
+    "gender":"Male"
+    "age":"19"
+    "speciality":"genycologue"     
+}
+
+patient:{
+    "firstname":"ahmed",
+    "lastname":"slimani",
+    "age":"20",
+   "adress":"douaouda-marine",
+    "phonenumber":"0674722853",
+    "socialnumber":"46478343124444",
+    "gender":"male",
+    "doctorID":"aze123",
+}
